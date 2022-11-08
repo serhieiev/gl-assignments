@@ -3,7 +3,7 @@
 ### Run script
 
 ```sh
-wget https://github.com/serhieiev/gl/apache.sh
+wget https://github.com/serhieiev/gl-scripts/blob/main/apache.sh
 chmod +x apache.sh
 ./apache.sh
 ```
